@@ -1,0 +1,8 @@
+.status strong {
+  font-size: 28px;
+  background-color: yellow;
+}
+
+.status {
+  margin: 10px auto;
+}
